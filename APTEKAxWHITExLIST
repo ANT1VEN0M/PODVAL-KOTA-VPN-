@@ -1,5 +1,5 @@
 #profile-title: APTEKAxWHITExLIST
 #profile-update-interval: 24
 
-vless://f5d86c05-fead-4819-b6a2-83b2857fd5de@194.55.239.164:443?security=reality&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=e791&flow=xtls-rprx-vision&type=tcp&encryption=none#3047%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-vless://5e9fe9c1-38f7-43db-8340-abdd925a551b@178.248.236.209:10443?security=reality&sni=rutube.ru&fp=firefox&pbk=glb1LK20uecGGnJ5BErD-hLfJfyay4wG-CiN5YSjT3k&sid=a22d9f604145f3b8&flow=xtls-rprx-vision&type=tcp&encryption=none#4271%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-Rutube%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
+vless://589a146e-acd2-4e18-a390-3d1c15cad195@46.182.24.89:80?security=none&type=grpc&mode=gun&serviceName=grpc&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B3%D0%BB%D1%83%D1%88%D0%B0%D1%82%20%233
+vless://589a146e-acd2-4e18-a390-3d1c15cad195@46.254.17.58:80?security=none&type=grpc&mode=gun&serviceName=grpc&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B3%D0%BB%D1%83%D1%88%D0%B0%D1%82%20%D0%9C%D0%A2%D0%A1%20%7C%20%D0%A2-%D0%9C%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB%20
